@@ -1,0 +1,12 @@
+# Compiler outputs
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.a
+
+
+# Build directories
+build/
+.vscode/
